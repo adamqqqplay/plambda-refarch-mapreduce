@@ -1,8 +1,8 @@
 {
       "bucket": "big-data-benchmark",
       "prefix": "pavlo/text/1node/uservisits/",
-      "jobBucket": "mr-lambda1",
-      "region": "us-east-1",
+      "jobBucket": "elune-mapreduce-test",
+      "region": "ap-southeast-1",
       "lambdaMemory": 1536,
       "concurrentLambdas": 1000,
       "lambda_read_timeout": 300,

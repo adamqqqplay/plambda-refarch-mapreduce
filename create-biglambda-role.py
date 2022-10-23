@@ -1,7 +1,4 @@
 import boto3,json,botocore
-
-
-
 client = boto3.client('iam')
 
 trust_role = {
